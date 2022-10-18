@@ -13,11 +13,11 @@ npm install
 
 ## Objetivo:
 
-Painel de controle com o objetivo de dar visibilidade para o administrador e para os usuários de um site.
-Permite controlar o fluxo de entrada/saída de produtos. 
-Permite cadastrar novos:
- Usuários → podem fazer atualizações no site;
- Consumidores → apenas podem ver os produtos registrados.
+Painel de controle com o objetivo de dar visibilidade para o administrador e para os usuários de um site. <br>
+Permite controlar o fluxo de entrada/saída de produtos. <br>
+Permite cadastrar novos:<br>
+ Usuários → podem fazer atualizações no site;<br>
+ Consumidores → apenas podem ver os produtos registrados.<br>
 
 ## Páginas:
 
