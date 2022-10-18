@@ -7,7 +7,7 @@
 	<li>Typescript</li>
 </ul>
 
-## Instalar dependências:
+## Para instalar as dependências:
 
 npm install
 
